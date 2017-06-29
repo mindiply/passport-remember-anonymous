@@ -1,0 +1,27 @@
+{
+  "name": "passport-remember-anonymous",
+  "version": "0.0.2",
+  "description": "Passport strategy for anonyomous authentication, remembering the user via cookie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindiply/passport-remember-anonynous.git"
+  },
+  "keywords": [
+    "passport",
+    "anonymous",
+    "remember"
+  ],
+  "author": "Paolo F. Bongiovanni <paolo.bongiovanni@mindiply.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindiply/passport-remember-anonynous/issues"
+  },
+  "homepage": "https://github.com/mindiply/passport-remember-anonynous#readme",
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  }
+}
